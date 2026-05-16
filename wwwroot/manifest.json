@@ -1,0 +1,8 @@
+{
+  "name": "Blazor PWA JSON",
+  "short_name": "PWA JSON",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd"
+}

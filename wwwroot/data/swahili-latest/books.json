@@ -1,0 +1,137 @@
+[
+  {
+    "bookName": "Matthew",
+    "bookId": 40,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Mark",
+    "bookId": 41,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Luke",
+    "bookId": 42,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "John",
+    "bookId": 43,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Acts",
+    "bookId": 44,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Romans",
+    "bookId": 45,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Corinthians",
+    "bookId": 46,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Corinthians",
+    "bookId": 47,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Galatians",
+    "bookId": 48,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Ephesians",
+    "bookId": 49,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Philippians",
+    "bookId": 50,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Colossians",
+    "bookId": 51,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Thessalonians",
+    "bookId": 52,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Thessalonians",
+    "bookId": 53,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Timothy",
+    "bookId": 54,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Timothy",
+    "bookId": 55,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Titus",
+    "bookId": 56,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Philemon",
+    "bookId": 57,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Hebrews",
+    "bookId": 58,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "James",
+    "bookId": 59,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 Peter",
+    "bookId": 60,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 Peter",
+    "bookId": 61,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "1 John",
+    "bookId": 62,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "2 John",
+    "bookId": 63,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "3 John",
+    "bookId": 64,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Jude",
+    "bookId": 65,
+    "subcategory": "New Testament"
+  },
+  {
+    "bookName": "Revelation",
+    "bookId": 66,
+    "subcategory": "New Testament"
+  }
+]
