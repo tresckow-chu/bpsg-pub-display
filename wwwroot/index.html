@@ -5,7 +5,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BPSG</title>
-    <base href="/bpsg-pub-display/wwwroot/" />
+   <base href="/bpsg-pub-display/wwwroot/" />
+
 
     <link href="_framework/dotnet.ecqpfy3d5y.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-nvh/ZWn2hbJWwr33qTmb5HqkM+/yuIoOtOZB9cH9+dQ=" />
 
@@ -52,12 +53,11 @@
     </div>
     <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.min.js"></script>
-    <script src="js/mobilePreview.js"></script>
+    <script src="/js/mobilePreview.js"></script>
 
     <script>
         navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });
     </script>
-
 
     <script>
         if ('serviceWorker' in navigator) {
