@@ -1,5 +1,5 @@
 self.importScripts('./service-worker-assets.js');
-const cacheName = 'blazor-pwa-cache-v1';
+const cacheName = 'blazor-pwa-cache-v193';
 const includeAssets = [ /\.dll$/, /\.wasm$/, /\.js$/, /\.json$/, /\.css$/, /\.html$/, /\.woff2?$/, /\.ico$/, /\.png$/, /\.jpg$/, /\.jpeg$/, /\.svg$/ ];
 const excludeAssets = [ /service-worker\.js$/, /service-worker\.published\.js$/ ];
 
